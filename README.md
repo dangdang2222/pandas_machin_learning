@@ -1,4 +1,4 @@
-# pandas_machin_learning
+# pandas_machine_learning
 
 파이썬 머신러닝 완벽 가이드 저서 권철민
 
